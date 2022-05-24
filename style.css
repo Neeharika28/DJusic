@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+.head{
+    width: 100%;
+    top: 0;
+    font-size: 25px;
+}
+#note{
+    font-size: 15px;
+}
+canvas{
+    border-width: 5px;
+    border-radius: 20px;
+    border-color:#5bc0de;
+    background-color: white;
+}
